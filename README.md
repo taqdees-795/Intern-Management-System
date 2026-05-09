@@ -39,7 +39,7 @@ Password: Admin@2024
 ### 🗄️ Step 1: Start MongoDB
 
 ```bash
-mongod
+mongodb
 ```
 
 ---
