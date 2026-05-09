@@ -1,7 +1,7 @@
 # Task 6 — Payment Integration for Premium Courses
 
 ## Overview
-PayPal and Stripe payment gateway integration for unlocking premium LMS courses.
+Stripe payment gateway integration for unlocking premium LMS courses.
 
 ## Login
 Use your InternHub credentials (created via Task 2 Admin dashboard).
